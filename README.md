@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEFA&height=250&section=header&text=Welcome%20&fontSize=90&fontAlignY=35&desc=nyeroni's%20github&descAlignY=55&descAlign=85)
 
+<p align="center">
+  Studying of backend 💻
+</p>
 <h3 align="center"><b>🔎 Hits</b></h3>
 
 <p align="center">
