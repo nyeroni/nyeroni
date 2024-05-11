@@ -21,4 +21,4 @@ jobs:
           git config user.email nyeroni@github.com
           git add -A .
           git commit -m "generated"
-          git push -f origin main
+          git push 
