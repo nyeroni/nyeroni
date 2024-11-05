@@ -29,7 +29,7 @@
 <p align="center">
 
 <a href="https://velog.io/@nyeroni" target="_blank" >
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@nyeroni"/>
+  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Velog&logoColor=white&link=[https://velog.io/@nyeroni](https://nyeroni.tistory.com/)"/>
 </a>
 <a href="mailto:nir2y@naver.com"> 
   <img src="https://img.shields.io/badge/Mail-4682B4?style=flat-square&logo=Mail&logoColor=white&link=mailto:nir2y@naver.com"/>
