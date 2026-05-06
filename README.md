@@ -6,11 +6,6 @@
  Hello, I'm Shin Yerin, dreaming of becoming a backend developer. 💻
 </p>
 
-
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=nyeroni&show_icons=true&theme=graywhite" />
-  </p>
-
   <h3><b>📚 Tech Stack</b></h3>
   <p align="left">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffdd54"/>
